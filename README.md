@@ -1,3 +1,4 @@
-# First-directory- This is my first repository.
+# Firstdirectory
+This is my first repository.
 <br>
 Author: Vansh Panchal
